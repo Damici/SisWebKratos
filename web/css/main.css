@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.8em;
+    color: #444;
+    background-size: 100%;
+}
+
+#m_main {
+    width: 590px;
+    margin: auto;
+}
+
+#m_top {
+    width: 100%;
+    margin-top: 20px;
+    padding-right: 10px;
+    text-align: right;
+}
+
+#m_menu {
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+#m_body {
+    width: 100%;
+}
+
+#m_body h3{
+    color: #ffffff;
+}
